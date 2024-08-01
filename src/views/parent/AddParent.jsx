@@ -489,6 +489,9 @@ const AddParent = () => {
                       <option value='هەشتەم'>
                         هەشتەم
                       </option>
+                      <option value='نۆیەم'>
+                         نۆیەم
+                      </option>
                  </select>
                  {/* <input
                    dir='rtl'

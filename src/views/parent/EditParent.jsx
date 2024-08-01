@@ -529,6 +529,9 @@ const EditParent = () => {
                       <option value='هەشتەم'>
                         هەشتەم
                       </option>
+                      <option value='نۆیەم'>
+                         نۆیەم
+                      </option>
                  </select>
                  {ClassError && <span className='text-red-900'>{ClassError}</span>}
                </div>
